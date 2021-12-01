@@ -1,5 +1,5 @@
 - 👋 Hola, Soy @RaseckShow
-- 👀 Estoy interesado en Tecnologia, Seguridad Informatica, Videojuegos principalmente.
+- 👀 Estoy interesado en Tecnologia, Desarrollo de software, Seguridad Informatica, Videojuegos principalmente.
 - 🌱 Me encuentro aprendiendo sobre el desarrollo de videojuegos y la bolsa de valores.
 - 💞️ Me gustaria colaborar en todo aquello que pueda ser util.
 - 📫 Contacto: ces_art11@hotmail.com
