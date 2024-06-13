@@ -1,6 +1,6 @@
 - 👋 Hola, Soy @RaseckShow
 - 👀 Estoy interesado en Tecnologia, Desarrollo de Software, Seguridad Informatica, Videojuegos principalmente.
-- 🌱 Me encuentro aprendiendo sobre el desarrollo de videojuegos y Programación.
+- 🌱 Me encuentro aprendiendo sobre el desarrollo de videojuegos y Programación Web.
 - 💞️ Me gustaria colaborar en todo aquello que pueda ser util.
 - 📫 Contacto: https://www.instagram.com/rasecknavarro/
 
