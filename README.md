@@ -67,23 +67,11 @@
 
 ###
 
-<h3 align="left">Mobile</h3>
+<h3 align="left">Other tools</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
-</div>
-
-###
-
-<h3 align="right">Other tools</h3>
-
-###
-
-<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
@@ -99,11 +87,11 @@
 
 ###
 
-<h3 align="left">Hobbies</h3>
+<h3 align="right">Hobbies</h3>
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
